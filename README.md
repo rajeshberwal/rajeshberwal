@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Software Developer, Data Science Enthusiast and a Content Creator. I love to write about Technology, Life and Things that matter.
 
-### Check out my articles
-
-[Blog](https://medium.com/@imrajeshberwal)
+### Check out my articles: [Click Here](https://medium.com/@imrajeshberwal)
 
 - 🔭 I’m currently working on My Content Cration Skills
 - 🌱 I’m currently learning Artificial Development
