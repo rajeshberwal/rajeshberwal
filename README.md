@@ -25,7 +25,9 @@ I'm a Software Developer, Data Science Enthusiast and a Content Creator. I love 
 - 🔭 I’m currently working on My Content Cration Skills
 - 🌱 I’m currently learning Artificial Development
 - 💬 Ask me about Life, Technology
-- 📫 How to reach me: [Twitter](https://twitter.com/imrajeshberwal), (Instagram)[https://instagram.com/imrajeshberwal]
+- 📫 How to reach me:
+  -  [Twitter](https://twitter.com/imrajeshberwal)
+  -  [Instagram](https://instagram.com/imrajeshberwal)
 - ⚡ Fun fact: I prefer tea over coffee.
 
 #### Have a good day!
