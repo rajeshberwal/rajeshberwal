@@ -21,7 +21,7 @@ I'm a Software Developer, Data Science Enthusiast and a Content Creator. I love 
 ### Check out my articles: [Click Here](https://medium.com/@imrajeshberwal)
 
 - 🔭 I’m currently working on My Content Cration Skills
-- 🌱 I’m currently learning Artificial Development
+- 🌱 I’m currently learning Artificial Intelligence Development
 - 💬 Ask me about Life, Technology
 - 📫 How to reach me:
   -  [Twitter](https://twitter.com/imrajeshberwal)
