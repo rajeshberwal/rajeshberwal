@@ -1,32 +1,6 @@
-### Hi Github👋! Rajesh here.
-
-<!--
-**rajeshberwal/rajeshberwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Hi Github👋! Rajesh here.<br>I'm a Software Engineer. I love to write about Technology, Life and Things that matter.<br><br>Check out my articles: [Click Here](https://medium.com/@imrajeshberwal)<br>🔭 I’m currently working on my development skills<br>🌱 I’m currently learning about NestJS<br>💬 Ask me about Life, Technology<br>⚡ Subscribe to my newsletter: https://prioritz.com 
 
 
-I'm a Software Developer, Data Science Enthusiast and a Content Creator. I love to write about Technology, Life and Things that matter.
-
-### Check out my articles: [Click Here](https://medium.com/@imrajeshberwal)
-
-- 🔭 I’m currently working on My Content Cration Skills
-- 🌱 I’m currently learning about Microservices
-- 💬 Ask me about Life, Technology
-- 📫 How to reach me:
-  -  [LinkedIn](https://linkedin.com/in/imrajeshberwal)
-  -  [Twitter](https://twitter.com/imrajeshberwal)
-  -  [Instagram](https://instagram.com/imrajeshberwal)
-- ⚡ Fun fact: I prefer tea over coffee.
-
-#### Have a good day!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrajeshberwal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@imrajeshberwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imrajeshberwal) 
